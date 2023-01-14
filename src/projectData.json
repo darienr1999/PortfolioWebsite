@@ -1,0 +1,53 @@
+{
+        "DistalRadius": {
+            "id": "DistalRadius",
+            "projectName": "Distal Radius Fracture Analysis App",
+            "projectDescription": "This application will allow doctors to take a picture of the lateral and front projections of a distal radius fracture and perform an analysis. The application will provide them with the measurements of volar tilt, radial tilt, and radial height, and based on those measurements, provide a recommendation on the severity of the injury. Users can then choose to export the results via email/message to refer to other doctors/specialists. ",
+            "linkToRepository": "https://docs.google.com/document/d/1XXbEFFjIGpnyrCrr2j_LiBNJ1cAxJl0Z56_jUFnBT5U/edit?usp=sharing",
+            "video": "https://www.youtube.com/embed/haOkDqI6QI4",
+            "imgPath": "/xray.jpg",
+            "cardDescription": "An app for analyzing distal radius fractures"
+            
+        },
+        "FlutterMessengerApp": {
+            "id": "FlutterMessengerApp",
+            "projectName": "Coming soon...",
+            "projectDescription": "This project will be a simple messenger app built using Flutter and firebase",
+            "linkToRepository": "",
+            "video": "N/A",
+            "imgPath": "/comingsoon.jpg",
+            "cardDescription": "This project will be a simple messenger app built using Flutter and firebase"
+
+        },
+        "NewsPost": {
+            "id": "NewsPost",
+            "projectName": "Coming soon...",
+            "projectDescription": "This project Website that allows people to make/share posts like reddit",
+            "linkToRepository": "",
+            "video": "N/A",
+            "imgPath": "/comingsoon.jpg",
+            "cardDescription": "This project Website that allows people to make/share posts like reddit"
+
+        },
+        "BitcoinTracker": {
+            "id": "BitcoinTracker",
+            "projectName": "Coming soon...",
+            "projectDescription": "An app  built using Flutter that tracks exchange rates of various cryto coins",
+            "linkToRepository": "",
+            "video": "N/A",
+            "imgPath": "/comingsoon.jpg",
+            "cardDescription": "An app  built using Flutter that tracks exchange rates of various cryto coins"
+
+        },
+        "GameProject": {
+            "id": "GameProject",
+            "projectName": "Coming soon...",
+            "projectDescription": "Will be a game (most likely fantasy rpg) made with Unreal engine",
+            "linkToRepository": "",
+            "video": "N/A",
+            "imgPath": "/comingsoon.jpg",
+            "cardDescription": "Will be a game (most likely fantasy rpg) made with Unreal engine"
+
+        }
+
+}

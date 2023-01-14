@@ -1,0 +1,36 @@
+
+.Project-page-format {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    
+}
+.Project-Col {
+    width: 100%;
+}
+
+.Project-header-text {
+    font-size: 4em;
+}
+.Project-description-text {
+    font-size: 2em;
+}
+
+.Project-vid-size {
+    width: 1000px; 
+    height: 750px;
+}
+
+@media (max-width: 2000px) {
+    .Project-vid-size {
+        width: 700px;
+        height: 525px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .Project-vid-size {
+        width: 420px;
+        height: 315px;
+    }
+}

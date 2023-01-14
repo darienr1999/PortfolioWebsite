@@ -1,13 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
-
-import React, {useEffect, useState} from 'react';
 import {Helmet} from "react-helmet";
-import {BrowserRouter as Router, Route, Routes, Switch} from 'react-router-dom';
-
-
-
-import Background from './Background';
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import MainPage from './MainPage';
 import ProjectPage from './ProjectPage';
 
@@ -19,7 +13,7 @@ function App() {
   {text: some text}
   */
   
-  const [page, setPage] = useState({});
+
 
   
   return (

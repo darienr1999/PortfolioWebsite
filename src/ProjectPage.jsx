@@ -42,7 +42,7 @@ function ProjectPage() {
                         {renderLink === true ? 
                             <p className = "Project-description-text mb-5">
                                 Document/Repository:  
-                                <a href= {selectedProject.linkToRepository} target="_blank" >
+                                <a href= {selectedProject.linkToRepository} target="_blank" rel="noreferrer">
                                     Link
                                 </a>
                             </p>

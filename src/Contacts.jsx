@@ -22,7 +22,7 @@ function Contacts() {
                     <Col xxl={4} className = "">
                     <i class="fa-brands fa-linkedin fa-8x pb-4"></i>
                     <br/>
-                    <a href='https://www.linkedin.com/in/darien-rogers-730074208/' target="_blank" className='fs-1'>LinkedIn</a>
+                    <a href='https://www.linkedin.com/in/darien-rogers-730074208/' target="_blank" className='fs-1' rel='noreferrer'>LinkedIn</a>
                     
                     </Col>
 

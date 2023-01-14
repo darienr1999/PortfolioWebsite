@@ -1,6 +1,6 @@
 
 import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+
 import Contacts from './Contacts';
 import {motion} from 'framer-motion';
 
